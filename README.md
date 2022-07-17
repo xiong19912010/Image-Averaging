@@ -4,4 +4,9 @@ Example command:
 ```
 Average.py image_average [particle_star_file] [image_folder]
 ``` 
+Initial Image:
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/94659159/179382234-b4ce7152-baed-4dba-b75b-c047efdfcc72.png">
+
+After Averaging:
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/94659159/179382263-43a52a2c-57b1-4ea4-a24d-df4a55ba837a.png">
+
